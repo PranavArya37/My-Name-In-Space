@@ -4,13 +4,25 @@
 ![](BoardingPass_MyNameOnFutureMission.png)
 
 ***
-
 - ### Future Mars Mission Updated
 ![](BoardingPass_MyNameOnFutureMissionUpdated.png)
 
 ***
+- ### Europa Clipper - Jupiter's moon
+![](EuropaClipper-MessageInABottle.png)
+
+***
+- ### Mission Platypus - Griffith University, Australia
+![](MissionPlatypus-GriffithUniversity-Space-Boarding-Pass.jpg)
+
+***
+- ### Xplore to the Moon
+![](Xplore-to-the-moon-PranavArya.jpeg)
+
+***
 - ### Mars 2020 Mission
 ![](BoardingPass_MyNameOnMars2020.png)
+
 
 ***
 - ### Parker Solar Probe
