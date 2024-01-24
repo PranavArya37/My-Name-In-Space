@@ -26,6 +26,7 @@
 
 ***
 - ### Parker Solar Probe
+![](https://github.com/PranavArya37/My-Name-In-Space/blob/8f063470322774e50fa686764f2a5c29d7f31172/Parker%20Solar%20Probe.jpg)
 <a href="https://github.com/PranavArya37/My-Name-In-Space/blob/d5ba7ce48161ab6492e37d05d4f83fd89a8da314/Parker%20Solar%20Probe.pdf" target="_blank">Click Here to See PDF for Parker Solar Probe</a>
 
 ***
